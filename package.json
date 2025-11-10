@@ -1,0 +1,12 @@
+{
+  "name": "simple-node-proxy",
+  "version": "1.0.0",
+  "description": "A basic Node.js HTTP proxy server deployed as a Vercel Serverless Function.",
+  "main": "proxy_server.js",
+  "scripts": {
+    "start": "node proxy_server.js"
+  },
+  "dependencies": {
+    "url": "^0.11.0"
+  }
+}
